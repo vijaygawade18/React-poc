@@ -1,26 +1,23 @@
 {
-  "employees": [
-    {
-      "id": 1,
-      "name": "Garry",
-      "e": ["Vijay","Garry"]
-    },
-    {
-      "id": 2,
-      "title": "Harry",
-      "e": ["Vijay","Garry"]
-    },
-    {
-      "id": 3,
-      "title": "Torry",
-      "e": ["Vijay","Garry"]
-    }
-  ],
   "studios": [
     {
       "id": 1,
       "studio": "Process Automation",
-      "postId": 1
+      "postId": 1,
+      "employees": [
+          {
+            "id": 1,
+            "name": "Garry"
+          },
+          {
+            "id": 2,
+            "title": "Harry"
+          },
+          {
+            "id": 3,
+            "title": "Torry"
+          }
+        ]
     },
     {
       "id": 2,
