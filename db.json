@@ -30,11 +30,11 @@
           },
           {
             "id": 2,
-            "title": "Samantha"
+            "name": "Samantha"
           },
           {
             "id": 3,
-            "title": "Romaguera-Jacobson"
+            "name": "Romaguera-Jacobson"
           }
         ]
     }
